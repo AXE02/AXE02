@@ -14,8 +14,8 @@
 </p>
 <br>
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AXE02&show_icons=true&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AXE02&show_icons=true&theme=radical" />
 </a>  
  
 ## Let's connect
