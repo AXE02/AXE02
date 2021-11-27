@@ -3,7 +3,7 @@
 
 ## I am currently working on 
  - Open source contributions
- - My portfolio website
+ - Personal projects
  - Learning new technologies
 
 ## Languages & Tools
