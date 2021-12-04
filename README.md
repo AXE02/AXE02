@@ -20,6 +20,6 @@
   
  
 ## Let's connect
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/akshay__xx" target="_blank"><img align="center" src="https://louisville.edu/artsandsciences/images/icons/social/twitter-color-transparent.png/image" alt="twitter" alt="twitter" height="60" width="60" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/akshay__xx/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="instagram" height="60" width="60" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/21akshay/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="60" width="60" /></a> &nbsp;&nbsp;
 </p>
