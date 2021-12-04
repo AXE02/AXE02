@@ -20,8 +20,6 @@
   
  
 ## Let's connect
-<p align = "left">
-<a href="https://twitter.com/Akshay__xx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="60" width="60" /></a> &nbsp;&nbsp;<a href="https://www.facebook.com/profile.php?id=100006634450241" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="60" width="60" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/Akshay__xx/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="60" width="60" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/21akshay/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="60" width="60" /></a> &nbsp;&nbsp;
+<p align="center">
+<a href="https://twitter.com/akshay__xx" target="_blank"><img align="center" src="https://louisville.edu/artsandsciences/images/icons/social/twitter-color-transparent.png/image" alt="twitter" alt="twitter" height="60" width="60" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/akshay__xx/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="instagram" height="60" width="60" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/21akshay/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="60" width="60" /></a> &nbsp;&nbsp;
 </p>
